@@ -1,0 +1,3 @@
+[submodule "hallucination_new/Snowballed_Hallucination"]
+	path = hallucination_new/Snowballed_Hallucination
+	url = https://github.com/Nanami18/Snowballed_Hallucination.git
